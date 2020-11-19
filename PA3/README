@@ -1,0 +1,11 @@
+README for PA3
+Dmitriy Nikitin ID:1649206 PA3
+Files Submitted:
+Arithmetic.c - Main method which takes in two big ints from and in file and does arithamtic ont them
+BigInteger.c - Main adt in this program which stores bigintegers in a double linked list
+BigInteger.h - header for big int
+BigIntegerTest.c - my test file 
+List.c - double linked list from pa1 converted to longs
+ListTest.c - test for my list
+MakeFile - makes and executes the program
+README 
